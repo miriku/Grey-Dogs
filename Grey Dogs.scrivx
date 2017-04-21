@@ -1,0 +1,1392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="sioadmins-MacBook-Air-2" Modified="2017-04-02 15:40:59 -0700" ModID="951E0A72-DC9D-4577-B2F7-784F858C3445">
+    <Binder>
+        <BinderItem ID="0" UUID="1E7812F5-045C-4E85-BC7E-138304600BFD" Type="DraftFolder" Created="2017-01-07 13:49:49 -0800" Modified="2017-01-07 13:49:49 -0800">
+            <Title>Player's Handbook</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <Children>
+                <BinderItem ID="4" UUID="EA5CD26A-74E0-4E22-BF1F-E108962162A0" Type="Folder" Created="2017-01-07 13:49:49 -0800" Modified="2017-01-07 13:49:49 -0800">
+                    <Title>Campaign Guide</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Book (Brown Book).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="208" UUID="37AAB2BD-7FC4-4C6E-A996-B9A0E1255C7A" Type="Folder" Created="2017-01-07 13:49:49 -0800" Modified="2017-01-07 13:49:49 -0800">
+                    <Title>House Rules</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>d20.tif</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="5" UUID="5ACA8F5D-0D35-4004-8A0D-BBE68EAC99C8" Type="Text" Created="2017-01-07 13:49:49 -0800" Modified="2017-03-31 14:53:57 -0700">
+            <Title>Campaign</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Blackboard.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="18" UUID="4A4988C8-EDEA-4370-B697-177E30A2209F" Type="Folder" Created="2017-01-07 13:49:49 -0800" Modified="2017-01-07 13:49:49 -0800">
+                    <Title>Setting</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Locations (Map).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentIDs></SelectedSubdocumentIDs>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                            <FreeformCorkboardDocuments>
+                                <IndexCardBinderID Position="0.186667,0.043333" TimeStamp="2017-03-31 14:51:18 -0700">41</IndexCardBinderID>
+                                <IndexCardBinderID Position="1.416927,1.484635" TimeStamp="2017-03-31 14:51:21 -0700">242</IndexCardBinderID>
+                                <IndexCardBinderID Position="1.946367,0.933763" TimeStamp="2017-03-31 14:51:21 -0700">42</IndexCardBinderID>
+                                <IndexCardBinderID Position="1.539609,0.118607" TimeStamp="2017-03-31 14:51:24 -0700">241</IndexCardBinderID>
+                                <IndexCardBinderID Position="0.141419,1.203698" TimeStamp="2017-03-31 14:51:19 -0700">98</IndexCardBinderID>
+                                <IndexCardBinderID Position="0.287201,0.679818" TimeStamp="2017-03-31 14:51:23 -0700">131</IndexCardBinderID>
+                            </FreeformCorkboardDocuments>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="41" UUID="6A3F5B58-01D5-4C29-B514-ACD7175619E9" Type="Folder" Created="2017-01-07 13:49:49 -0800" Modified="2017-01-07 13:49:49 -0800">
+                            <Title>Places</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentIDs></SelectedSubdocumentIDs>
+                                <OutlinerExpandedState>
+                                    <ItemID>281</ItemID>
+                                </OutlinerExpandedState>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem ID="260" UUID="30D7455C-A7E4-4E4A-8A06-F4D15B51E1EF" Type="Folder" Created="2017-01-08 15:26:52 -0800" Modified="2017-01-10 20:05:41 -0800">
+                                    <Title>Courage</Title>
+                                    <MetaData>
+                                        <LabelID>5</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <SelectedSubdocumentIDs>265</SelectedSubdocumentIDs>
+                                    </CorkboardAndOutliner>
+                                    <Children>
+                                        <BinderItem ID="261" UUID="113237D5-F1FE-4D77-B700-576DB737733E" Type="Text" Created="2017-01-08 15:27:01 -0800" Modified="2017-01-08 15:27:13 -0800">
+                                            <Title>Docks</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="262" UUID="8AE14AC3-888D-4764-99D5-7DADEF724883" Type="Text" Created="2017-01-08 15:27:15 -0800" Modified="2017-01-08 15:27:17 -0800">
+                                            <Title>Tannery</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="263" UUID="0CEE2A25-F85B-4575-BDC8-FC60A26DE3B1" Type="Text" Created="2017-01-08 15:27:20 -0800" Modified="2017-01-08 15:27:21 -0800">
+                                            <Title>Fishery</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="264" UUID="B0303C7C-1296-41CB-8A49-33A4FE2C6FE7" Type="Text" Created="2017-01-08 15:27:31 -0800" Modified="2017-01-08 15:27:33 -0800">
+                                            <Title>Brewery</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="265" UUID="DD9AFF6C-9D16-48E3-A82F-91C8F8262F45" Type="Text" Created="2017-01-08 15:27:36 -0800" Modified="2017-01-08 15:33:13 -0800">
+                                            <Title>King's Ransom</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="274" UUID="DCAA57CF-B35D-4BB4-B748-274F26CBD205" Type="Text" Created="2017-01-10 19:53:26 -0800" Modified="2017-03-25 23:24:14 -0700">
+                                    <Title>Ziggurat</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>10,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="281" UUID="F183472F-E71F-45C7-9271-4F0B0227DA3A" Type="Folder" Created="2017-03-25 15:31:08 -0700" Modified="2017-03-25 23:19:30 -0700">
+                                    <Title>Khinn</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="296" UUID="D87C7253-2100-4C5F-98F5-7ACD763BF986" Type="Text" Created="2017-03-25 23:17:40 -0700" Modified="2017-03-25 23:19:25 -0700">
+                                            <Title>The Queen's Ship</Title>
+                                            <MetaData>
+                                                <LabelID>5</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="295" UUID="F2719B73-558A-45E8-A01E-A4D62B4CD776" Type="Text" Created="2017-03-25 23:17:03 -0700" Modified="2017-03-25 23:19:21 -0700">
+                                    <Title>Circle Of Three Pillars</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="294" UUID="A9CEA387-9C05-47D9-91A5-AFF57E6D3B0A" Type="Text" Created="2017-03-25 23:00:33 -0700" Modified="2017-03-26 11:35:25 -0700">
+                                    <Title>The Pit</Title>
+                                    <MetaData>
+                                        <LabelID>3</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="297" UUID="7BADA1D7-ED58-4D5E-AE7B-499713A041E6" Type="Text" Created="2017-03-25 23:22:40 -0700" Modified="2017-03-26 11:35:12 -0700">
+                                    <Title>Last Star Island</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>289,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="131" UUID="3BC5556C-03F1-4156-A7E4-0BAEE49CA5B6" Type="Folder" Created="2017-01-07 13:49:49 -0800" Modified="2017-01-07 13:49:49 -0800">
+                            <Title>Culture</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <IconFileName>Book (Brown Book).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentIDs>325</SelectedSubdocumentIDs>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem ID="254" UUID="1B8AF7AF-D335-4974-9F26-18B96D7FD4DD" Type="Text" Created="2017-01-08 15:04:08 -0800" Modified="2017-04-01 19:42:04 -0700">
+                                    <Title>Worship Elements of the Three</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>91,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="325" UUID="4D08BA57-A29A-41CB-A807-49012651F91E" Type="Text" Created="2017-04-01 19:41:56 -0700" Modified="2017-04-01 19:43:07 -0700">
+                                    <Title>Khinn Terms</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>32,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="241" UUID="1094B445-930D-4C84-A310-9BCFAB1437EA" Type="Folder" Created="2017-01-07 13:49:49 -0800" Modified="2017-01-07 13:49:49 -0800">
+                            <Title>Mythology</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <IconFileName>Lectern.tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="251" UUID="106FDABF-679D-4376-8963-0F8647683116" Type="Text" Created="2017-01-08 14:51:36 -0800" Modified="2017-01-08 14:52:40 -0800">
+                                    <Title>Rock</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="252" UUID="107F510E-7AE0-41A7-A96F-74FDD2C21B8A" Type="Text" Created="2017-01-08 14:52:44 -0800" Modified="2017-01-08 14:53:02 -0800">
+                                    <Title>Rust</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="253" UUID="0CC5F6F4-E057-4A47-AF3B-9BAD476F0DB6" Type="Text" Created="2017-01-08 14:52:54 -0800" Modified="2017-01-08 14:53:02 -0800">
+                                    <Title>Regret</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="256" UUID="09242F7F-8DBA-4796-B436-90B714C1DAB5" Type="Text" Created="2017-01-08 15:22:14 -0800" Modified="2017-03-31 09:42:03 -0700">
+                                    <Title>Queen</Title>
+                                    <MetaData>
+                                        <LabelID>5</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>104,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="257" UUID="F445FD89-A905-4FE5-83A4-859DAA688BF1" Type="Text" Created="2017-01-08 15:22:19 -0800" Modified="2017-03-31 09:44:12 -0700">
+                                    <Title>Moon</Title>
+                                    <MetaData>
+                                        <LabelID>5</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>74,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="258" UUID="B3D0428F-62B0-48F9-AC59-EBC939994A57" Type="Text" Created="2017-01-08 15:22:23 -0800" Modified="2017-03-31 09:44:31 -0700">
+                                    <Title>Sun</Title>
+                                    <MetaData>
+                                        <LabelID>5</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>70,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="259" UUID="66365670-1274-4BDF-9639-EA0FE3CACDDC" Type="Text" Created="2017-01-08 15:22:58 -0800" Modified="2017-03-25 23:24:57 -0700">
+                                    <Title>Purple Eye God</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>127,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="255" UUID="494A8F87-9AF2-4364-BA60-19036A1E78C4" Type="Text" Created="2017-01-08 15:22:10 -0800" Modified="2017-03-31 09:42:03 -0700">
+                                    <Title>King</Title>
+                                    <MetaData>
+                                        <LabelID>5</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,108</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="98" UUID="9945B410-2D1B-4875-9D0B-5E62DD2968CA" Type="Folder" Created="2017-01-07 13:49:49 -0800" Modified="2017-01-07 13:49:49 -0800">
+                            <Title>Magic</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <IconFileName>Eye.tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="298" UUID="EB4F2A7B-2C38-4A2C-B5A3-8DB5EB820E6A" Type="Text" Created="2017-03-31 09:44:50 -0700" Modified="2017-03-31 09:45:26 -0700">
+                                    <Title>Moon, lvl 1</Title>
+                                    <MetaData>
+                                        <LabelID>5</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="299" UUID="C67A6B7B-6EAF-4CDA-A142-1B806BC09608" Type="Text" Created="2017-03-31 09:44:54 -0700" Modified="2017-03-31 09:45:29 -0700">
+                                    <Title>Moon, lvl 2</Title>
+                                    <MetaData>
+                                        <LabelID>5</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="300" UUID="A0D98749-6ED1-41F0-9C48-58078FEDDF0A" Type="Text" Created="2017-03-31 09:44:56 -0700" Modified="2017-03-31 09:45:40 -0700">
+                                    <Title>Watcher, lvl 1</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="301" UUID="87DCF1FA-7578-458E-AE4E-A68619480C18" Type="Text" Created="2017-03-31 09:44:59 -0700" Modified="2017-03-31 09:45:49 -0700">
+                                    <Title>Watcher, lvl 2</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="242" UUID="8071109D-1A21-4CBE-895D-DAC0172EC4B1" Type="Folder" Created="2017-01-07 13:49:49 -0800" Modified="2017-03-31 14:35:40 -0700">
+                            <Title>Items + Spells</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <IconFileName>Test Tube.tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentIDs>322</SelectedSubdocumentIDs>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem ID="310" UUID="5EE4AC21-9A11-4AFA-96F4-BCAA2C37C107" Type="Text" Created="2017-03-31 14:08:16 -0700" Modified="2017-04-02 12:54:30 -0700">
+                                    <Title>It Weakens Then Kills</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <StatusID>1</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>369,0</TextSelection>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>4</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                                <BinderItem ID="311" UUID="9FD2D768-64C5-470A-8D1C-E05757ADCCA4" Type="Text" Created="2017-03-31 14:08:17 -0700" Modified="2017-03-31 14:31:41 -0700">
+                                    <Title>Ring of the King's Stag</Title>
+                                    <MetaData>
+                                        <LabelID>5</LabelID>
+                                        <StatusID>1</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>342,0</TextSelection>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>4</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                                <BinderItem ID="312" UUID="E4751C3D-A6B1-49DE-835A-9D1CD2651A37" Type="Text" Created="2017-03-31 14:35:46 -0700" Modified="2017-03-31 15:32:49 -0700">
+                                    <Title>Moonskin</Title>
+                                    <MetaData>
+                                        <LabelID>5</LabelID>
+                                        <StatusID>1</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,651</TextSelection>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>2</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                                <BinderItem ID="313" UUID="868A9F65-2DF2-49DB-9C9E-E0BBDF04D815" Type="Text" Created="2017-03-31 14:41:54 -0700" Modified="2017-03-31 15:38:54 -0700">
+                                    <Title>Moon Sign</Title>
+                                    <MetaData>
+                                        <LabelID>5</LabelID>
+                                        <StatusID>1</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,951</TextSelection>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>2</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                                <BinderItem ID="317" UUID="B66973CC-517F-4897-91C6-406BE9EAF3C6" Type="Text" Created="2017-03-31 14:35:46 -0700" Modified="2017-03-31 16:00:21 -0700">
+                                    <Title>Eye Sees All</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <StatusID>1</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>962,0</TextSelection>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>3</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                                <BinderItem ID="318" UUID="E2418D9A-B2AB-4A99-919C-6CB692DE436A" Type="Text" Created="2017-03-31 14:41:54 -0700" Modified="2017-04-01 15:38:06 -0700">
+                                    <Title>Eye Knows the Truth</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <StatusID>1</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>801,0</TextSelection>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>3</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                                <BinderItem ID="321" UUID="69BD4187-A382-4CB7-949E-651EEE8F3A93" Type="Text" Created="2017-03-31 23:40:00 -0700" Modified="2017-04-01 15:45:02 -0700">
+                                    <Title>Queen's Token</Title>
+                                    <MetaData>
+                                        <LabelID>5</LabelID>
+                                        <StatusID>1</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>127,0</TextSelection>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>2</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                                <BinderItem ID="322" UUID="EC82CA23-D122-4314-BD8D-F567ADA72289" Type="Text" Created="2017-04-01 15:44:41 -0700" Modified="2017-04-01 20:14:37 -0700">
+                                    <Title>Chip's Choice</Title>
+                                    <MetaData>
+                                        <StatusID>1</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>218,0</TextSelection>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>1</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="42" UUID="BB771F40-ABA1-493D-A3C6-33C863F63DF4" Type="Folder" Created="2017-01-07 13:49:49 -0800" Modified="2017-01-07 13:49:49 -0800">
+                            <Title>Groups &amp; Factions</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <IconFileName>Characters (Mask).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="268" UUID="3D023348-7408-47FF-9D0E-BCEE3246350C" Type="Text" Created="2017-01-10 19:24:17 -0800" Modified="2017-03-26 11:33:23 -0700">
+                                    <Title>House Coldwind</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>85,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="289" UUID="207DBB70-256C-49DD-A1E2-2AAE831949D1" Type="Text" Created="2017-03-25 17:34:18 -0700" Modified="2017-04-02 12:28:26 -0700">
+                                    <Title>House Seedscatter</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>88,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="267" UUID="5DB6796B-77E2-4966-B613-B12F273FE7BD" Type="Text" Created="2017-01-10 19:24:12 -0800" Modified="2017-04-02 12:20:28 -0700">
+                                    <Title>House Night</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>84,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="269" UUID="6F8F03CD-BF32-4871-90BE-794D07087E2C" Type="Text" Created="2017-01-10 19:24:29 -0800" Modified="2017-03-25 18:45:53 -0700">
+                                    <Title>House Carcass</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>86,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="270" UUID="1C08DC2F-F3D0-49A3-B78C-F517CBD5F4EB" Type="Text" Created="2017-01-10 19:24:47 -0800" Modified="2017-03-26 11:33:07 -0700">
+                                    <Title>House Deepwater</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>61,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="23" UUID="25947C91-5307-4242-8C0A-DB60317F9FBB" Type="Folder" Created="2017-01-07 13:49:49 -0800" Modified="2017-01-07 13:49:49 -0800">
+                    <Title>Hooks</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Thought Bubble.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentIDs>319</SelectedSubdocumentIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="304" UUID="EFDB96C6-176F-4623-AE9D-C6146AB7D114" Type="Text" Created="2017-03-31 12:42:03 -0700" Modified="2017-03-31 13:40:53 -0700">
+                            <Title>Chip's Soul</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Keywords>
+                                <KeywordID>1</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="305" UUID="E25F76ED-B954-4AB2-ABDC-E73AE13368C5" Type="Text" Created="2017-03-31 13:41:17 -0700" Modified="2017-03-31 14:27:23 -0700">
+                            <Title>The Black Sword</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Keywords>
+                                <KeywordID>4</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="306" UUID="3267F4F1-6A4F-4C3C-8EFE-24C847C7B427" Type="Text" Created="2017-03-31 13:41:51 -0700" Modified="2017-03-31 13:42:23 -0700">
+                            <Title>Learning of the Purple Eye God</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Keywords>
+                                <KeywordID>3</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="307" UUID="554EBD3E-239A-435E-9DE1-AC69A61B0171" Type="Text" Created="2017-03-31 13:49:28 -0700" Modified="2017-03-31 13:49:49 -0700">
+                            <Title>Gith Blades</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Keywords>
+                                <KeywordID>3</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="319" UUID="1B06910F-5E0D-4536-B1FB-93A91643D1D2" Type="Text" Created="2017-03-31 19:30:50 -0700" Modified="2017-03-31 19:33:53 -0700">
+                            <Title>The Queen's Token</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Keywords>
+                                <KeywordID>2</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="100" UUID="7AE2AFD7-D5D0-4334-A514-D9FE7F8510BB" Type="Folder" Created="2017-01-07 13:49:49 -0800" Modified="2017-01-07 13:49:49 -0800">
+                    <Title>Stories</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Clapper Board.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentIDs></SelectedSubdocumentIDs>
+                        <OutlinerExpandedState>
+                            <ItemID>287</ItemID>
+                        </OutlinerExpandedState>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="287" UUID="07360FF5-25AB-4073-B99C-CCC7414604A9" Type="Folder" Created="2017-03-25 15:56:16 -0700" Modified="2017-03-25 15:56:20 -0700">
+                            <Title>Queen's Ark</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentIDs>288</SelectedSubdocumentIDs>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem ID="288" UUID="5A73937E-32D5-4A51-9DBE-0124E433776A" Type="Text" Created="2017-03-25 15:57:59 -0700" Modified="2017-03-26 11:42:26 -0700">
+                                    <Title>Nightfall</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>495,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="286" UUID="A40302CB-F45E-408B-A890-0C51D31D0478" Type="Text" Created="2017-03-25 15:55:28 -0700" Modified="2017-03-26 11:47:55 -0700">
+                                    <Title>Last Star Island</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>708,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="101" UUID="8B4B76D6-DC9D-43DB-B8DA-0180F8E832C5" Type="Folder" Created="2017-01-07 13:49:49 -0800" Modified="2017-01-07 13:49:49 -0800">
+                    <Title>NPCs</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="245" UUID="65142152-B48F-4BD5-9958-BAB851E12757" Type="Text" Created="2017-01-07 14:01:03 -0800" Modified="2017-03-25 15:43:02 -0700">
+                            <Title>Awhe Queen</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>79,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="243" UUID="BB58538C-BB6E-4A91-8F08-51402FD38FDE" Type="Text" Created="2017-01-07 13:59:34 -0800" Modified="2017-01-10 20:36:23 -0800">
+                            <Title>Drow Queen</Title>
+                            <MetaData>
+                                <LabelID>1</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,98</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="282" UUID="FAC4C7B0-4EA1-455B-BF80-DF21022B49B3" Type="Text" Created="2017-03-25 15:43:19 -0700" Modified="2017-03-31 13:51:34 -0700">
+                            <Title>Marcela</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="244" UUID="C99A5EE7-95B6-4540-B95B-CE2B9B50072C" Type="Text" Created="2017-01-07 14:00:56 -0800" Modified="2017-01-10 19:45:12 -0800">
+                            <Title>Khinn Queen</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="266" UUID="33BDB7AA-1507-4C23-B74C-2FCAE381888B" Type="Text" Created="2017-01-10 19:23:16 -0800" Modified="2017-01-10 19:44:54 -0800">
+                            <Title>Startongue</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="271" UUID="4F7CB519-E04A-4282-A4DD-17A571987F5F" Type="Text" Created="2017-01-10 19:36:50 -0800" Modified="2017-01-10 19:45:12 -0800">
+                            <Title>Prince</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="272" UUID="449A9B5C-2A2C-4221-949D-09D2FB0A4A6C" Type="Text" Created="2017-01-10 19:44:27 -0800" Modified="2017-01-10 19:45:04 -0800">
+                            <Title>Rain</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="273" UUID="4969F5F0-E5C3-4324-9BAC-126955C6C8B5" Type="Text" Created="2017-01-10 19:44:36 -0800" Modified="2017-01-10 19:45:04 -0800">
+                            <Title>Glory</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="276" UUID="41E39DA7-B94F-40F6-A483-3E32C9E7279F" Type="Text" Created="2017-01-10 20:25:20 -0800" Modified="2017-03-31 13:51:34 -0700">
+                            <Title>She Who Lies With A Smile</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="277" UUID="88E7B1AD-1E9D-4BD6-9E4B-0A05EF65DEE8" Type="Text" Created="2017-01-10 20:25:27 -0800" Modified="2017-03-31 13:51:34 -0700">
+                            <Title>Oubliette</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="278" UUID="B40956BF-AA8D-4B36-A544-1E99710BB583" Type="Text" Created="2017-01-10 20:26:02 -0800" Modified="2017-03-31 13:51:34 -0700">
+                            <Title>While</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="279" UUID="DEF36AEB-F660-4105-AB44-702811E01720" Type="Text" Created="2017-01-10 20:26:13 -0800" Modified="2017-03-31 13:51:34 -0700">
+                            <Title>Dunna</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="284" UUID="B9A53250-36B2-4207-B458-8F9F50525460" Type="Text" Created="2017-03-25 15:47:25 -0700" Modified="2017-03-31 13:51:34 -0700">
+                            <Title>Gray</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="290" UUID="D3FE7878-45AA-4788-BE35-E7DF6341066C" Type="Text" Created="2017-03-25 19:55:21 -0700" Modified="2017-03-25 19:57:01 -0700">
+                            <Title>Dirtbat</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,35</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="293" UUID="DFD3503F-E700-47D1-B114-34B881A2FED2" Type="Text" Created="2017-03-25 20:41:49 -0700" Modified="2017-03-31 13:51:16 -0700">
+                            <Title>Cistero</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="291" UUID="E85A8118-F460-4DAE-9D4A-FE6FA76E9776" Type="Text" Created="2017-03-25 20:35:00 -0700" Modified="2017-03-31 13:51:16 -0700">
+                            <Title>Aevum</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>143,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="292" UUID="0E603099-5936-406A-BCE7-25C2E4B25707" Type="Text" Created="2017-03-25 20:39:39 -0700" Modified="2017-03-31 13:51:16 -0700">
+                            <Title>Arc That Holds</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>77,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="302" UUID="3297FF6A-9324-4E5D-A05C-A1E9A50C6520" Type="Text" Created="2017-03-31 09:50:09 -0700" Modified="2017-03-31 13:51:16 -0700">
+                            <Title>Black Blade</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="303" UUID="00B14A6C-ADE0-46D7-971A-A7D8721D428F" Type="Text" Created="2017-03-31 09:50:38 -0700" Modified="2017-03-31 13:51:16 -0700">
+                            <Title>Ameth</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="309" UUID="9840F871-0CCC-4207-87AD-70EF9EBB6A2B" Type="Text" Created="2017-03-31 13:50:40 -0700" Modified="2017-03-31 13:51:16 -0700">
+                            <Title>Tallya</Title>
+                            <MetaData>
+                                <LabelID>1</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="323" UUID="76501C4F-7049-439A-B893-C829B352E02B" Type="Text" Created="2017-04-01 19:40:34 -0700" Modified="2017-04-01 19:41:16 -0700">
+                            <Title>Ahai Mak - Fly At Dawn</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="324" UUID="14703135-B3E4-42D8-A8DB-25CC8ABFCEE9" Type="Text" Created="2017-04-01 19:40:57 -0700" Modified="2017-04-01 19:41:16 -0700">
+                            <Title>Flies Through Blood Rain</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="326" UUID="F9CEAE23-0573-41ED-A1CD-D3D36D62845F" Type="Folder" Created="2017-04-02 11:23:18 -0700" Modified="2017-04-02 11:23:19 -0700">
+                    <Title>PCs</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Characters (Photo).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="327" UUID="233066C8-A52A-4F73-8EAA-971C67E274CC" Type="Text" Created="2017-04-02 11:25:40 -0700" Modified="2017-04-02 11:25:57 -0700">
+                            <Title>Chip</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="328" UUID="6F53F8CC-EAB8-4842-B5A0-D8BFAB8AC23C" Type="Text" Created="2017-04-02 11:26:01 -0700" Modified="2017-04-02 11:26:04 -0700">
+                            <Title>Garrus</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="329" UUID="A0E07274-3890-43A2-8CD3-C3764FC10E42" Type="Text" Created="2017-04-02 11:26:08 -0700" Modified="2017-04-02 11:26:11 -0700">
+                            <Title>Leira</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="330" UUID="D1A018C0-2002-44E4-B82E-AB7C55CA062E" Type="Text" Created="2017-04-02 11:26:16 -0700" Modified="2017-04-02 11:26:17 -0700">
+                            <Title>Tralfaz</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="331" UUID="AB863C5F-8017-426A-BCE5-729D390D6C0A" Type="Text" Created="2017-04-02 11:37:26 -0700" Modified="2017-04-02 11:40:20 -0700">
+                            <Title>QuickStats</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>119,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="B020C960-C982-4094-9AF4-3E7C4C70E513" Type="ResearchFolder" Created="2017-01-07 13:49:49 -0800" Modified="2017-03-31 14:52:46 -0700">
+            <Title>Sessions</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+                <IconFileName>d20.tif</IconFileName>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentIDs>314</SelectedSubdocumentIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="315" UUID="079BE6BF-83BD-4F31-BD5C-FCBBAE6DFD06" Type="Folder" Created="2017-03-31 15:05:20 -0700" Modified="2017-03-31 15:05:25 -0700">
+                    <Title>Gray Dogs in a Gray Land</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Flag (White Flag).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentIDs></SelectedSubdocumentIDs>
+                        <OutlinerExpandedState>
+                            <ItemID>314</ItemID>
+                        </OutlinerExpandedState>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="314" UUID="38BA90B6-AF45-4EB2-AA5B-D6D0FEA9EF58" Type="Text" Created="2017-03-31 15:04:14 -0700" Modified="2017-04-01 20:20:23 -0700">
+                            <Title>1. Queen's Meeting and Last Star</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <IconFileName>Way-Station (White Way-Station).tiff</IconFileName>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>arc</FieldID>
+                                        <Value>3 Queens</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>sessiondate</FieldID>
+                                        <Value>2017-04-02</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>175,0</TextSelection>
+                            </TextSettings>
+                            <Keywords>
+                                <KeywordID>4</KeywordID>
+                                <KeywordID>2</KeywordID>
+                                <KeywordID>1</KeywordID>
+                                <KeywordID>3</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="64C7550C-3D6C-4107-BA75-7225CC5B2449" Type="TrashFolder" Created="2017-01-07 13:49:49 -0800" Modified="2017-01-07 13:49:49 -0800">
+            <Title>Trash</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <Children>
+                <BinderItem ID="246" UUID="A52AA8FF-4BBC-462D-B479-667D1C8B6F1D" Type="Folder" Created="2017-01-07 14:01:25 -0800" Modified="2017-01-07 14:36:50 -0800">
+                    <Title>Drow</Title>
+                    <MetaData>
+                        <LabelID>1</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="247" UUID="C31AB384-B4AA-4BB3-9A3A-7318A1EC8459" Type="Folder" Created="2017-01-07 14:01:45 -0800" Modified="2017-01-08 14:40:51 -0800">
+                    <Title>Khinn</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="248" UUID="940C80E9-726E-4072-8C6F-09BEEC30B9F2" Type="Folder" Created="2017-01-07 14:01:54 -0800" Modified="2017-01-08 15:17:21 -0800">
+                    <Title>Awhe</Title>
+                    <MetaData>
+                        <LabelID>5</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentIDs>245</SelectedSubdocumentIDs>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="249" UUID="6997B1AD-C949-446A-A698-35B2DF3C9985" Type="Folder" Created="2017-01-08 14:41:01 -0800" Modified="2017-01-08 14:41:07 -0800">
+                    <Title>Void Demons</Title>
+                    <MetaData>
+                        <LabelID>3</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="250" UUID="A29DA73E-C39A-4104-81CB-34E6C670249E" Type="Folder" Created="2017-01-08 14:41:11 -0800" Modified="2017-01-08 14:41:20 -0800">
+                    <Title>The Three</Title>
+                    <MetaData>
+                        <LabelID>4</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="275" UUID="7FFAF7AB-D2ED-4F8B-86AF-25339A1FDFEC" Type="Text" Created="2017-01-10 20:13:50 -0800" Modified="2017-01-10 20:13:50 -0800">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="280" UUID="B5E52F28-55B8-47A4-80B2-E69FBA6652E8" Type="Folder" Created="2017-01-10 20:26:30 -0800" Modified="2017-01-10 20:26:30 -0800">
+                    <Title>New Folder</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="283" UUID="575DD211-B030-4E06-9394-12A54B4DC025" Type="Text" Created="2017-03-25 15:43:19 -0700" Modified="2017-03-25 15:46:31 -0700">
+                    <Title>Marcela copy</Title>
+                    <MetaData>
+                        <LabelID>5</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="285" UUID="03729146-366D-485A-B62B-8447CF605BA5" Type="Folder" Created="2017-03-25 15:55:11 -0700" Modified="2017-03-25 15:55:16 -0700">
+                    <Title>Queen's Ark</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="45" UUID="6A34C220-5DAF-4EC7-B19D-9D4B2C228CC5" Type="Folder" Created="2017-01-07 13:49:49 -0800" Modified="2017-01-07 13:49:49 -0800">
+                    <Title>Thematic Elements</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="308" UUID="1C696EE4-BF26-487D-B570-A95F2874EB39" Type="Text" Created="2017-03-31 13:50:33 -0700" Modified="2017-03-31 13:50:33 -0700">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="316" UUID="DEC2F4B1-9ED7-4AC7-93AF-4D18B1043A13" Type="Text" Created="2017-03-31 15:20:58 -0700" Modified="2017-03-31 15:20:58 -0700">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="320" UUID="F8785E1B-92F0-4427-830A-F1E64BB83D6B" Type="Text" Created="2017-03-31 23:10:36 -0700" Modified="2017-03-31 23:10:36 -0700">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="332" UUID="F8FE37A4-4972-4CA8-A965-66391F4F2CDD" Type="Text" Created="2017-04-02 12:28:15 -0700" Modified="2017-04-02 12:28:17 -0700">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="70DAC4EF-08E1-4E81-A852-20BA84BDE36B" Color="0.962266 0.962266 0.962266">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="12DD1B63-2CF7-4E6F-92E7-4EDB9F6499B7" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">hali</SearchSettings>
+        </Collection>
+    </Collections>
+    <Keywords>
+        <Keyword ID="1">
+            <Title>Chip</Title>
+            <Color>0.019518 0.437074 0.449147</Color>
+        </Keyword>
+        <Keyword ID="2">
+            <Title>Garrus</Title>
+            <Color>0.782429 0.566354 0.978775</Color>
+        </Keyword>
+        <Keyword ID="3">
+            <Title>Leira</Title>
+            <Color>0.623197 0.676552 0.409184</Color>
+        </Keyword>
+        <Keyword ID="4">
+            <Title>Tralfaz</Title>
+            <Color>0.134825 0.600565 0.367495</Color>
+        </Keyword>
+    </Keywords>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="1" Color="0.50549 0.0 0.612691">Drow</Label>
+            <Label ID="2" Color="0.957779 0.778266 0.152931">Khinn</Label>
+            <Label ID="3" Color="0.737382 0.065022 0.016415">Void Demon</Label>
+            <Label ID="4" Color="0.401724 0.642059 0.66801">Three Demon</Label>
+            <Label ID="6" Color="0.946692 0.984216 0.999877">Neutral</Label>
+            <Label ID="5" Color="0.143603 0.664454 0.121116">Awhe</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">Alive</Status>
+            <Status ID="2">Dead</Status>
+        </StatusItems>
+    </StatusSettings>
+    <CustomMetaDataSettings>
+        <MetaDataField ID="arc" Wraps="No">Arc</MetaDataField>
+        <MetaDataField ID="sessiondate" Wraps="No">Session Date</MetaDataField>
+    </CustomMetaDataSettings>
+    <ProjectProperties>
+        <ProjectTitle></ProjectTitle>
+        <AbbreviatedTitle></AbbreviatedTitle>
+        <FullName></FullName>
+        <LastName></LastName>
+        <FirstName></FirstName>
+    </ProjectProperties>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-03-25 11:40:57 -0700" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2017-04-02 12:11:08 -0700"></PreviousSession>
+    </ProjectTargets>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>
