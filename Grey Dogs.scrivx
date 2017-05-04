@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="sioadmins-MacBook-Air-2" Modified="2017-04-02 15:40:59 -0700" ModID="951E0A72-DC9D-4577-B2F7-784F858C3445">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="sioadmins-MacBook-Air-2" Modified="2017-05-03 18:18:48 -0700" ModID="54198CF2-779F-47B1-9C41-50C7A0570014">
     <Binder>
         <BinderItem ID="0" UUID="1E7812F5-045C-4E85-BC7E-138304600BFD" Type="DraftFolder" Created="2017-01-07 13:49:49 -0800" Modified="2017-01-07 13:49:49 -0800">
             <Title>Player's Handbook</Title>
@@ -737,7 +737,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <CorkboardAndOutliner>
-                                <SelectedSubdocumentIDs>288</SelectedSubdocumentIDs>
+                                <SelectedSubdocumentIDs>333</SelectedSubdocumentIDs>
                             </CorkboardAndOutliner>
                             <Children>
                                 <BinderItem ID="288" UUID="5A73937E-32D5-4A51-9DBE-0124E433776A" Type="Text" Created="2017-03-25 15:57:59 -0700" Modified="2017-03-26 11:42:26 -0700">
@@ -758,6 +758,16 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>708,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="333" UUID="FE34BB7B-0144-49C4-979C-A9A7C903509F" Type="Text" Created="2017-05-03 16:12:38 -0700" Modified="2017-05-03 18:18:48 -0700">
+                                    <Title>Dream</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,4486</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1386,7 +1396,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-03-25 11:40:57 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2017-04-02 12:11:08 -0700"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2017-05-03 16:11:05 -0700"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
