@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="sioadmins-MacBook-Air-2" Modified="2017-05-03 18:18:48 -0700" ModID="54198CF2-779F-47B1-9C41-50C7A0570014">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="sioadmins-MacBook-Air-2" Modified="2017-05-07 16:48:31 -0700" ModID="636A24E5-97CB-4FE0-80F1-FB0B54D35BAB">
     <Binder>
         <BinderItem ID="0" UUID="1E7812F5-045C-4E85-BC7E-138304600BFD" Type="DraftFolder" Created="2017-01-07 13:49:49 -0800" Modified="2017-01-07 13:49:49 -0800">
             <Title>Player's Handbook</Title>
@@ -58,11 +58,11 @@
                             <FreeformMode>Yes</FreeformMode>
                             <FreeformCorkboardDocuments>
                                 <IndexCardBinderID Position="0.186667,0.043333" TimeStamp="2017-03-31 14:51:18 -0700">41</IndexCardBinderID>
-                                <IndexCardBinderID Position="1.416927,1.484635" TimeStamp="2017-03-31 14:51:21 -0700">242</IndexCardBinderID>
-                                <IndexCardBinderID Position="1.946367,0.933763" TimeStamp="2017-03-31 14:51:21 -0700">42</IndexCardBinderID>
-                                <IndexCardBinderID Position="1.539609,0.118607" TimeStamp="2017-03-31 14:51:24 -0700">241</IndexCardBinderID>
                                 <IndexCardBinderID Position="0.141419,1.203698" TimeStamp="2017-03-31 14:51:19 -0700">98</IndexCardBinderID>
                                 <IndexCardBinderID Position="0.287201,0.679818" TimeStamp="2017-03-31 14:51:23 -0700">131</IndexCardBinderID>
+                                <IndexCardBinderID Position="1.539609,0.118607" TimeStamp="2017-03-31 14:51:24 -0700">241</IndexCardBinderID>
+                                <IndexCardBinderID Position="1.416927,1.484635" TimeStamp="2017-03-31 14:51:21 -0700">242</IndexCardBinderID>
+                                <IndexCardBinderID Position="1.946367,0.933763" TimeStamp="2017-03-31 14:51:21 -0700">42</IndexCardBinderID>
                             </FreeformCorkboardDocuments>
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
@@ -757,7 +757,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>708,0</TextSelection>
+                                        <TextSelection>709,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="333" UUID="FE34BB7B-0144-49C4-979C-A9A7C903509F" Type="Text" Created="2017-05-03 16:12:38 -0700" Modified="2017-05-03 18:18:48 -0700">
@@ -767,7 +767,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,4486</TextSelection>
+                                        <TextSelection>3045,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -953,7 +953,7 @@
                                 <TextSelection>0,35</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="293" UUID="DFD3503F-E700-47D1-B114-34B881A2FED2" Type="Text" Created="2017-03-25 20:41:49 -0700" Modified="2017-03-31 13:51:16 -0700">
+                        <BinderItem ID="293" UUID="DFD3503F-E700-47D1-B114-34B881A2FED2" Type="Text" Created="2017-03-25 20:41:49 -0700" Modified="2017-05-07 12:34:17 -0700">
                             <Title>Cistero</Title>
                             <MetaData>
                                 <LabelID>5</LabelID>
@@ -962,7 +962,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>12,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="291" UUID="E85A8118-F460-4DAE-9D4A-FE6FA76E9776" Type="Text" Created="2017-03-25 20:35:00 -0700" Modified="2017-03-31 13:51:16 -0700">
@@ -1143,8 +1143,8 @@
                         </OutlinerExpandedState>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="314" UUID="38BA90B6-AF45-4EB2-AA5B-D6D0FEA9EF58" Type="Text" Created="2017-03-31 15:04:14 -0700" Modified="2017-04-01 20:20:23 -0700">
-                            <Title>1. Queen's Meeting and Last Star</Title>
+                        <BinderItem ID="314" UUID="38BA90B6-AF45-4EB2-AA5B-D6D0FEA9EF58" Type="Text" Created="2017-03-31 15:04:14 -0700" Modified="2017-05-07 13:19:04 -0700">
+                            <Title>1. 2017-04-02</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -1161,7 +1161,34 @@
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>175,0</TextSelection>
+                                <TextSelection>339,0</TextSelection>
+                            </TextSettings>
+                            <Keywords>
+                                <KeywordID>4</KeywordID>
+                                <KeywordID>2</KeywordID>
+                                <KeywordID>1</KeywordID>
+                                <KeywordID>3</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="335" UUID="18D0A045-7ED0-4FD0-8851-37898F9E8B03" Type="Text" Created="2017-03-31 15:04:14 -0700" Modified="2017-05-07 16:48:31 -0700">
+                            <Title>1. 2017-05-07</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <IconFileName>Way-Station (White Way-Station).tiff</IconFileName>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>arc</FieldID>
+                                        <Value>3 Queens</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>sessiondate</FieldID>
+                                        <Value>2017-04-02</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>247,0</TextSelection>
                             </TextSettings>
                             <Keywords>
                                 <KeywordID>4</KeywordID>
@@ -1330,6 +1357,16 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="334" UUID="040F8B91-F1FD-4569-B70B-DEE2FE0573C1" Type="Text" Created="2017-05-07 12:26:18 -0700" Modified="2017-05-07 12:26:18 -0700">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1396,7 +1433,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-03-25 11:40:57 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2017-05-03 16:11:05 -0700"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2017-05-07 12:23:33 -0700"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
