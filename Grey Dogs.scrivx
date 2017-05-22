@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="sioadmins-MacBook-Air-2" Modified="2017-05-07 16:48:31 -0700" ModID="636A24E5-97CB-4FE0-80F1-FB0B54D35BAB">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="sioadmins-MacBook-Air-2" Modified="2017-05-21 17:29:07 -0700" ModID="D9A49D28-E3CE-49D2-819E-C434AD1F54A5">
     <Binder>
         <BinderItem ID="0" UUID="1E7812F5-045C-4E85-BC7E-138304600BFD" Type="DraftFolder" Created="2017-01-07 13:49:49 -0800" Modified="2017-01-07 13:49:49 -0800">
             <Title>Player's Handbook</Title>
@@ -58,11 +58,11 @@
                             <FreeformMode>Yes</FreeformMode>
                             <FreeformCorkboardDocuments>
                                 <IndexCardBinderID Position="0.186667,0.043333" TimeStamp="2017-03-31 14:51:18 -0700">41</IndexCardBinderID>
-                                <IndexCardBinderID Position="0.141419,1.203698" TimeStamp="2017-03-31 14:51:19 -0700">98</IndexCardBinderID>
-                                <IndexCardBinderID Position="0.287201,0.679818" TimeStamp="2017-03-31 14:51:23 -0700">131</IndexCardBinderID>
-                                <IndexCardBinderID Position="1.539609,0.118607" TimeStamp="2017-03-31 14:51:24 -0700">241</IndexCardBinderID>
                                 <IndexCardBinderID Position="1.416927,1.484635" TimeStamp="2017-03-31 14:51:21 -0700">242</IndexCardBinderID>
                                 <IndexCardBinderID Position="1.946367,0.933763" TimeStamp="2017-03-31 14:51:21 -0700">42</IndexCardBinderID>
+                                <IndexCardBinderID Position="1.539609,0.118607" TimeStamp="2017-03-31 14:51:24 -0700">241</IndexCardBinderID>
+                                <IndexCardBinderID Position="0.141419,1.203698" TimeStamp="2017-03-31 14:51:19 -0700">98</IndexCardBinderID>
+                                <IndexCardBinderID Position="0.287201,0.679818" TimeStamp="2017-03-31 14:51:23 -0700">131</IndexCardBinderID>
                             </FreeformCorkboardDocuments>
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
@@ -750,14 +750,14 @@
                                         <TextSelection>495,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="286" UUID="A40302CB-F45E-408B-A890-0C51D31D0478" Type="Text" Created="2017-03-25 15:55:28 -0700" Modified="2017-03-26 11:47:55 -0700">
+                                <BinderItem ID="286" UUID="A40302CB-F45E-408B-A890-0C51D31D0478" Type="Text" Created="2017-03-25 15:55:28 -0700" Modified="2017-05-21 15:53:36 -0700">
                                     <Title>Last Star Island</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>709,0</TextSelection>
+                                        <TextSelection>717,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="333" UUID="FE34BB7B-0144-49C4-979C-A9A7C903509F" Type="Text" Created="2017-05-03 16:12:38 -0700" Modified="2017-05-03 18:18:48 -0700">
@@ -797,6 +797,78 @@
                                 <TextSelection>79,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem ID="282" UUID="FAC4C7B0-4EA1-455B-BF80-DF21022B49B3" Type="Text" Created="2017-03-25 15:43:19 -0700" Modified="2017-03-31 13:51:34 -0700">
+                            <Title>Marcela</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="284" UUID="B9A53250-36B2-4207-B458-8F9F50525460" Type="Text" Created="2017-03-25 15:47:25 -0700" Modified="2017-03-31 13:51:34 -0700">
+                            <Title>Gray</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="293" UUID="DFD3503F-E700-47D1-B114-34B881A2FED2" Type="Text" Created="2017-03-25 20:41:49 -0700" Modified="2017-05-07 12:34:17 -0700">
+                            <Title>Cistero</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>12,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="278" UUID="B40956BF-AA8D-4B36-A544-1E99710BB583" Type="Text" Created="2017-01-10 20:26:02 -0800" Modified="2017-03-31 13:51:34 -0700">
+                            <Title>While</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="303" UUID="00B14A6C-ADE0-46D7-971A-A7D8721D428F" Type="Text" Created="2017-03-31 09:50:38 -0700" Modified="2017-03-31 13:51:16 -0700">
+                            <Title>Ameth</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="279" UUID="DEF36AEB-F660-4105-AB44-702811E01720" Type="Text" Created="2017-01-10 20:26:13 -0800" Modified="2017-03-31 13:51:34 -0700">
+                            <Title>Dunna</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem ID="243" UUID="BB58538C-BB6E-4A91-8F08-51402FD38FDE" Type="Text" Created="2017-01-07 13:59:34 -0800" Modified="2017-01-10 20:36:23 -0800">
                             <Title>Drow Queen</Title>
                             <MetaData>
@@ -809,10 +881,10 @@
                                 <TextSelection>0,98</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="282" UUID="FAC4C7B0-4EA1-455B-BF80-DF21022B49B3" Type="Text" Created="2017-03-25 15:43:19 -0700" Modified="2017-03-31 13:51:34 -0700">
-                            <Title>Marcela</Title>
+                        <BinderItem ID="309" UUID="9840F871-0CCC-4207-87AD-70EF9EBB6A2B" Type="Text" Created="2017-03-31 13:50:40 -0700" Modified="2017-03-31 13:51:16 -0700">
+                            <Title>Tallya</Title>
                             <MetaData>
-                                <LabelID>5</LabelID>
+                                <LabelID>1</LabelID>
                                 <StatusID>1</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -881,90 +953,6 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="276" UUID="41E39DA7-B94F-40F6-A483-3E32C9E7279F" Type="Text" Created="2017-01-10 20:25:20 -0800" Modified="2017-03-31 13:51:34 -0700">
-                            <Title>She Who Lies With A Smile</Title>
-                            <MetaData>
-                                <LabelID>6</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="277" UUID="88E7B1AD-1E9D-4BD6-9E4B-0A05EF65DEE8" Type="Text" Created="2017-01-10 20:25:27 -0800" Modified="2017-03-31 13:51:34 -0700">
-                            <Title>Oubliette</Title>
-                            <MetaData>
-                                <LabelID>6</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="278" UUID="B40956BF-AA8D-4B36-A544-1E99710BB583" Type="Text" Created="2017-01-10 20:26:02 -0800" Modified="2017-03-31 13:51:34 -0700">
-                            <Title>While</Title>
-                            <MetaData>
-                                <LabelID>5</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="279" UUID="DEF36AEB-F660-4105-AB44-702811E01720" Type="Text" Created="2017-01-10 20:26:13 -0800" Modified="2017-03-31 13:51:34 -0700">
-                            <Title>Dunna</Title>
-                            <MetaData>
-                                <LabelID>5</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="284" UUID="B9A53250-36B2-4207-B458-8F9F50525460" Type="Text" Created="2017-03-25 15:47:25 -0700" Modified="2017-03-31 13:51:34 -0700">
-                            <Title>Gray</Title>
-                            <MetaData>
-                                <LabelID>5</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="290" UUID="D3FE7878-45AA-4788-BE35-E7DF6341066C" Type="Text" Created="2017-03-25 19:55:21 -0700" Modified="2017-03-25 19:57:01 -0700">
-                            <Title>Dirtbat</Title>
-                            <MetaData>
-                                <LabelID>6</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,35</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="293" UUID="DFD3503F-E700-47D1-B114-34B881A2FED2" Type="Text" Created="2017-03-25 20:41:49 -0700" Modified="2017-05-07 12:34:17 -0700">
-                            <Title>Cistero</Title>
-                            <MetaData>
-                                <LabelID>5</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>12,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
                         <BinderItem ID="291" UUID="E85A8118-F460-4DAE-9D4A-FE6FA76E9776" Type="Text" Created="2017-03-25 20:35:00 -0700" Modified="2017-03-31 13:51:16 -0700">
                             <Title>Aevum</Title>
                             <MetaData>
@@ -1001,30 +989,6 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="303" UUID="00B14A6C-ADE0-46D7-971A-A7D8721D428F" Type="Text" Created="2017-03-31 09:50:38 -0700" Modified="2017-03-31 13:51:16 -0700">
-                            <Title>Ameth</Title>
-                            <MetaData>
-                                <LabelID>5</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="309" UUID="9840F871-0CCC-4207-87AD-70EF9EBB6A2B" Type="Text" Created="2017-03-31 13:50:40 -0700" Modified="2017-03-31 13:51:16 -0700">
-                            <Title>Tallya</Title>
-                            <MetaData>
-                                <LabelID>1</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
                         <BinderItem ID="323" UUID="76501C4F-7049-439A-B893-C829B352E02B" Type="Text" Created="2017-04-01 19:40:34 -0700" Modified="2017-04-01 19:41:16 -0700">
                             <Title>Ahai Mak - Fly At Dawn</Title>
                             <MetaData>
@@ -1041,6 +1005,42 @@
                             <Title>Flies Through Blood Rain</Title>
                             <MetaData>
                                 <LabelID>4</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="276" UUID="41E39DA7-B94F-40F6-A483-3E32C9E7279F" Type="Text" Created="2017-01-10 20:25:20 -0800" Modified="2017-03-31 13:51:34 -0700">
+                            <Title>She Who Lies With A Smile</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="290" UUID="D3FE7878-45AA-4788-BE35-E7DF6341066C" Type="Text" Created="2017-03-25 19:55:21 -0700" Modified="2017-03-25 19:57:01 -0700">
+                            <Title>Dirtbat</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,35</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="277" UUID="88E7B1AD-1E9D-4BD6-9E4B-0A05EF65DEE8" Type="Text" Created="2017-01-10 20:25:27 -0800" Modified="2017-03-31 13:51:34 -0700">
+                            <Title>Oubliette</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
                                 <StatusID>1</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -1170,8 +1170,8 @@
                                 <KeywordID>3</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem ID="335" UUID="18D0A045-7ED0-4FD0-8851-37898F9E8B03" Type="Text" Created="2017-03-31 15:04:14 -0700" Modified="2017-05-07 16:48:31 -0700">
-                            <Title>1. 2017-05-07</Title>
+                        <BinderItem ID="335" UUID="18D0A045-7ED0-4FD0-8851-37898F9E8B03" Type="Text" Created="2017-03-31 15:04:14 -0700" Modified="2017-05-21 16:50:12 -0700">
+                            <Title>2. 2017-05-07</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -1196,6 +1196,16 @@
                                 <KeywordID>1</KeywordID>
                                 <KeywordID>3</KeywordID>
                             </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="336" UUID="F822CDC7-E72C-4C47-9194-56234EC09334" Type="Text" Created="2017-05-21 14:16:33 -0700" Modified="2017-05-21 17:29:07 -0700">
+                            <Title>3. 2017-05-21</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>122,0</TextSelection>
+                            </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -1433,7 +1443,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-03-25 11:40:57 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2017-05-07 12:23:33 -0700"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2017-05-21 14:16:22 -0700"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
